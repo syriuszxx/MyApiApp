@@ -1,0 +1,14 @@
+{
+  "CustomerId": 2,
+  "FirstName": "John",
+  "Surname": "Doe",
+  "DateOfBirth": "1985-03-15T00:00:00",
+  "DocumentId": "D12345678",
+  "Pesel": "85031512345",
+  "UserId": 2,
+  "User": null,
+  "CategoryType": "Standard",
+  "AddressId": 2,
+  "Address": null,
+  "Accounts": []
+}

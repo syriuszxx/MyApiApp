@@ -1,0 +1,56 @@
+[
+  {
+    "AddressId": 1,
+    "Street": "123 Elm St",
+    "BlgNumber": "11",
+    "ZipCode": "A1AC2B",
+    "City": "Metropolis",
+    "AddressLine": "123 Elm St Metropolis BlgNo: 11 zipcode:A1AC2B",
+    "AddressTypeId": 0
+  },
+  {
+    "AddressId": 2,
+    "Street": "123 Main St",
+    "BlgNumber": "12",
+    "ZipCode": "A7C3B1",
+    "City": "New York",
+    "AddressLine": "Apt. 101, 123 Main St, Zipcode: A7C3B1, New York",
+    "AddressTypeId": 0
+  },
+  {
+    "AddressId": 3,
+    "Street": "Jodlowa",
+    "BlgNumber": "10",
+    "ZipCode": "98-100",
+    "City": "Lask",
+    "AddressLine": "ul. Jodlowa 10, 98-100 Lask",
+    "AddressTypeId": 0
+  },
+  {
+    "AddressId": 4,
+    "Street": "Jodlowa",
+    "BlgNumber": "10",
+    "ZipCode": "98-100",
+    "City": "Lask",
+    "AddressLine": "ul. Jodlowa 10, 98-100 Lask",
+    "AddressTypeId": 0
+  },
+  {
+    "AddressId": 5,
+    "Street": "Parkowa",
+    "BlgNumber": "15",
+    "ZipCode": "00-688",
+    "City": "Warsaw",
+    "AddressLine": "ul. Parkowa 15, 00-688 Warsaw",
+    "AddressTypeId": 0
+  },
+  {
+    "AddressId": 6,
+    "Street": "Oxford Street",
+    "BlgNumber": "27b",
+    "ZipCode": "W1D 2HS",
+    "City": "London",
+    "AddressLine": "Oxford st. blg.27b, W1D 2HS London",
+    "AddressTypeId": 0
+  }
+]

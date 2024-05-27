@@ -1,0 +1,9 @@
+{
+  "AddressId": 6,
+  "Street": "Oxford Street",
+  "BlgNumber": "27b",
+  "ZipCode": "W1D 2HS",
+  "City": "London",
+  "AddressLine": "Oxford st. blg.27b, W1D 2HS London",
+  "AddressTypeId": 0
+}

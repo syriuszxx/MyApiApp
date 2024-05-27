@@ -1,0 +1,21 @@
+{
+  "TransactionId": 6,
+  "Date": "2024-05-26T16:30:00Z",
+  "Amount": -100.00,
+  "AccountId": 1,
+  "Account": {
+    "AccountId": 1,
+    "AccountNumber": "4550123456",
+    "Iban": "PL9218300040000004550123456",
+    "BranchId": "4550",
+    "Balance": 1690.75,
+    "AvailableBalance": 1890.75,
+    "Ccy": "PLN",
+    "Transactions": null,
+    "CustomerId": 1,
+    "Customer": null
+  },
+  "Description": "ATM withdraw",
+  "Type": "Debit",
+  "Status": "Completed"
+}

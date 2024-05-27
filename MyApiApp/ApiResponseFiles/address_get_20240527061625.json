@@ -1,0 +1,9 @@
+{
+  "AddressId": 5,
+  "Street": "Parkowa",
+  "BlgNumber": "15",
+  "ZipCode": "00-688",
+  "City": "Warsaw",
+  "AddressLine": "ul. Parkowa 15, 00-688 Warsaw",
+  "AddressTypeId": 0
+}

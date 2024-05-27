@@ -1,0 +1,62 @@
+[
+  {
+    "TransactionId": 1,
+    "Date": "2024-05-22T14:30:00",
+    "Amount": 150.75,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "Monthly subscription fee",
+    "Type": "Debit",
+    "Status": "Completed"
+  },
+  {
+    "TransactionId": 2,
+    "Date": "2024-05-24T14:30:00",
+    "Amount": 2000.00,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "Income",
+    "Type": "Credit",
+    "Status": "Completed"
+  },
+  {
+    "TransactionId": 3,
+    "Date": "2024-05-24T14:30:00",
+    "Amount": -100.00,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "ATM withdraw",
+    "Type": "Debit",
+    "Status": "Completed"
+  },
+  {
+    "TransactionId": 4,
+    "Date": "2024-05-26T14:30:00",
+    "Amount": -120.00,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "ATM withdraw",
+    "Type": "Debit",
+    "Status": "Completed"
+  },
+  {
+    "TransactionId": 5,
+    "Date": "2024-05-26T15:30:00",
+    "Amount": -140.00,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "ATM withdraw",
+    "Type": "Debit",
+    "Status": "Completed"
+  },
+  {
+    "TransactionId": 6,
+    "Date": "2024-05-26T16:30:00",
+    "Amount": -100.00,
+    "AccountId": 1,
+    "Account": null,
+    "Description": "ATM withdraw",
+    "Type": "Debit",
+    "Status": "Completed"
+  }
+]
